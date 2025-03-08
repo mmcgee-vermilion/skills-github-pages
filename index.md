@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-wow
+title: Wow, Welcome to my blog
 ---
 
